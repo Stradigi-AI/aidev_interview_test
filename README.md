@@ -10,4 +10,4 @@ Once trained, use the fit model to make predictions.
 
 You can write an example file or serve the model as an endpoint of a REST API.
 
-The repository should include a readme with all instructions.
+The repository should include a readme with instructions on how to make predictions
