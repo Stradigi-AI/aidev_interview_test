@@ -10,4 +10,4 @@ Once trained, use the fit model to make predictions.
 
 You can write an example file or serve the model as an endpoint of a REST API.
 
-The repository should include test cases, a setup file, and instructions for how to run it.
+The repository should include a readme with all instructions.
