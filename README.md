@@ -20,5 +20,4 @@ Non-functional requirements:
 - must use Git for version control
 
 How to Submit:
-- Option 1: When you are done with the assignment, create a Pull Request in this repo against the master branch.
-- Option 2: Send a zip file to your HR representative.
+- Send a zip file containing all source code to your HR representative.
